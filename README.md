@@ -9,8 +9,8 @@
 ### Run the Demo (2 minutes)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AsyncLocalDemo
-cd AsyncLocalDemo
+git clone https://github.com/rajan-chari/try-async-local
+cd try-async-local
 
 # Build and run the project
 dotnet build

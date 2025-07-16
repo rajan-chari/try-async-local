@@ -10,6 +10,10 @@ Research AsyncLocal for C# and create a .NET Core project that explains AsyncLoc
 - Full test coverage (13 passing tests)
 - Clean build with no warnings
 
+## Repository Information
+- **GitHub Repository**: https://github.com/rajan-chari/try-async-local
+- **Clone Command**: `git clone https://github.com/rajan-chari/try-async-local`
+
 ### Implemented Components
 1. **Core Utilities**
    - AsyncLocalContext<T>: Generic wrapper with proper null handling
